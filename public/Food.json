@@ -1,0 +1,122 @@
+[
+    {
+    "id": 1,
+    "name":"Burger",
+     "image": "../src/assets/images/Main Dish.jpeg",
+    "price": 12.99
+},
+{
+    "id": 2,
+    "name": "Pasta",
+    "image": "../src/assets/images/Break Fast.jpeg",
+    "price": 9.99
+},
+{
+    "id": 3,
+    "name":"Cake",
+    "image": "../src/assets/images/cake.jpeg",
+    "price": 8.99
+},
+{
+    "id": 4,
+    "name": "Dessert",
+    "image": "../src/assets/images/Dessert.jpeg",
+    "price": 14.99
+},
+{
+    "id": 5,
+    "name": "Spaghetti Carbonara",
+    "image": "../src/assets/images/Break1.jpeg",
+    "price": 13.49
+},
+{
+    "id": 6,
+    "name": "Chicken Tikka Masala",
+    "image": "../src/assets/images/Break2.jpeg",
+    "price": 11.99
+},
+{
+    "id": 7,
+    "name": "Vegetable Stir Fry",
+    "image": "../src/assets/images/Break3.jpeg",
+    "price": 10.49
+},
+{
+    "id": 8,
+    "name": "Beef Tacos",
+    "image": "../src/assets/images/Break4.jpeg",
+    "price": 7.99
+},
+{
+    "id": 9,
+    "name": "Pad Thai",
+    "image": "../src/assets/images/Break5.jpeg",
+    "price": 12.49
+},
+{
+    "id": 10,
+    "name": "Falafel Wrap",
+    "image": "../src/assets/images/burger1.jpeg",
+    "price": 8.49
+},
+{
+    "id": 11,
+    "name": "Pancakes",
+    "image": "../src/assets/images/burger2.jpeg",
+    "price": 6.99
+},
+{
+    "id": 12,
+    "name": "Greek Salad",
+    "image": "../src/assets/images/burger3.jpeg",
+    "price": 9.49
+},
+{
+    "id": 13,
+    "name": "BBQ Ribs",
+    "image": "../src/assets/images/Cake1.jpeg",
+    "price": 15.99
+},
+{
+    "id": 14,
+    "name": "Chicken Alfredo",
+    "image": "../src/assets/images/Cake2.jpeg",
+    "price": 12.99
+},
+{
+    "id": 15,
+    "name": "Beef Wellington",
+    "image": "../src/assets/images/Dessert1.jpeg",
+    "price": 22.99
+},
+{
+    "id": 16,
+    "name": "Lamb Chops",
+    "image": "../src/assets/images/lunch1.jpeg",
+    "price": 18.99
+},
+{
+    "id": 17,
+    "name": "Shrimp Scampi",
+    "image": "../src/assets/images/lunch2.jpeg",
+    "price": 13.99
+},
+{
+    "id": 18,
+    "name": "Vegetable Curry",
+    "image": "../src/assets/images/lunch3.jpeg",
+    "price": 11.49
+},
+{
+    "id": 19,
+    "name": "Burrito",
+    "image": "../src/assets/images/lunch4.jpeg",
+    "price": 9.49
+},
+{
+    "id": 20,
+    "name": "Apple Pie",
+    "image": "../src/assets/images/lunch5.jpeg",
+    "price": 5.99
+}
+]

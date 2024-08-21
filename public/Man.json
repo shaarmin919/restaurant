@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "image": "../src/assets/images/man1.jpeg",
+         "details":"ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt reprehenderit voluptate earum aliquam, impedit, illum sequi laborum esse, explicabo id fugiat autem praesentium eos "
+
+
+    },
+{
+        "id": 2,
+        "name": "Jane Smith",
+        "image": "../src/assets/images/man2.jpeg",
+        "details":"ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt reprehenderit voluptate earum aliquam, impedit, illum sequi laborum esse, explicabo id fugiat autem praesentium eos eius."
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "image": "../src/assets/images/man3.jpeg",
+        "details":"ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt reprehenderit voluptate earum aliquam, impedit, illum sequi laborum esse, explicabo id fugiat autem praesentium eos eius."
+    },
+    {
+        "id": 4,
+        "name": "Michael Brown",
+        "image": "../src/assets/images/man4.jpeg",
+        "details":"ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt reprehenderit voluptate earum aliquam, impedit, illum sequi laborum esse, explicabo id fugiat autem praesentium eos eius. "
+    }
+]

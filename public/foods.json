@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "photo":"../public/img/Main Dish.jpeg",
+        "name": "Main Dish",
+        "price":12.22
+    },
+    {
+        "id":2,
+        "photo":"../public/img/Break Fast.jpeg",
+        "name": "Break Fast",
+        "price":12.22
+    },
+    {
+        "id":3,
+        "photo":"../public/img/lunch1.jpeg",
+        "name": "Lunch",
+        "price":12.22
+    },
+    {
+        "id":4,
+        "photo":"../public/img/Dessert.jpeg",
+        "name": "Dessert",
+        "price":12.22
+    }
+ 
+]
